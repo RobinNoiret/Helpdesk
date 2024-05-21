@@ -1,4 +1,4 @@
-# Zendesk to BigQuery Sync 🔄
+# Helpdesk - tickets management 🔄
 ## Project Description 📰
 Helpdesk is a Python application designed to **help people for tickets management**. This project is designed to complement Zendesk.
 
